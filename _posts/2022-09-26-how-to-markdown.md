@@ -19,9 +19,9 @@ tags: [example, markdown]
 
 ### 수식입력방법
 
-- $ a \* b = c ^ b $
-- $ 2^{\frac{n-1}{3}} $
-- $ \int_a^b f(x)\,dx. $
+$ a \* b = c ^ b $
+$ 2^{\frac{n-1}{3}} $
+$ \int_a^b f(x)\,dx. $
 
 ### italics & bold (기울임체, 두껍게)
 
