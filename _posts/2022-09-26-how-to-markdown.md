@@ -48,3 +48,17 @@ $ \int_a^b f(x)\,dx. $
 ---
 
 대시 3번 작성하면 만들어진다.
+
+### 스니펫 만들기
+
+```python
+class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+p1 = Person("John", 36)
+
+print(p1.name)
+print(p1.age)
+```
