@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 모던 자바스크립트 Deep Dive
-subtitle: 모던 자바스크립트 Deep Dive 정주행 시작
+subtitle: 7장~9장
 author: yodoree
 categories: TIL
 tags: javascript
