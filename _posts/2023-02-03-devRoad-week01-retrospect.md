@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 데브로드 프론트엔드 서바이벌 1주차 주간회고
-subTitle: 주간 회고 작성에 앞서 블로그 선정을 해야 했다.
+subtitle: 주간 회고 작성에 앞서 블로그 선정을 해야 했다.
 로지님이 medium이나 tistory를 추천해줬지만 markdown으로 작성하는 것에 좀 더 익숙해지고자 기존에 만들어놨었던 github 블로그를 활용하기로 했다.
 categories: 주간회고
 tags: [devroad, frontend]
