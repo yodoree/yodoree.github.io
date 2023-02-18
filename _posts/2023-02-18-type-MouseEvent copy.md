@@ -5,7 +5,7 @@ categories: typescript
 tags: [typescript, react, til]
 ---
 
-`MouseEvent와 ChangeEvent의 차이`
+`MouseEvent의 Type`
 
 ## MouseEvent
 
