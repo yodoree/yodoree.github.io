@@ -2,7 +2,7 @@
 layout: post
 title: 데브로드 프론트엔드 서바이벌 6주차 주간회고
 categories: 주간회고
-tags: [devroad, frontend, twil, react, ]
+tags: [devroad, frontend, twil, react ]
 ---
 
 `또 늦은 회고`
